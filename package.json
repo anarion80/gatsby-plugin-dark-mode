@@ -26,7 +26,7 @@
     "react": "^16.13.1"
   },
   "peerDependencies": {
-    "react": "16.x"
+    "react": "^18.2.0"
   },
   "author": "Jonny Buchanan <jonathan.buchanan@gmail.com>",
   "homepage": "https://github.com/insin/gatsby-plugin-dark-mode#readme",
